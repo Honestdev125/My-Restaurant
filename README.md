@@ -11,8 +11,8 @@
 ## 📝 About the Project
 
 **MyRestaurant** is a modern restaurant website built with **React, Next.js, TypeScript, Tailwind CSS, Framer Motion, and React Icons**. Users can explore the home page with hero slider, menu page with search/filter, reservation forms, and About page with interactive features.
-
---- 
+ 
+---
 
 ## ✨ Features  
 
