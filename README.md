@@ -28,7 +28,7 @@
 </ul>
 
 ---
- 
+  
 ## 🧰 Tech Stack
 
 | Technology | Purpose |
