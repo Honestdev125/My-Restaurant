@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 <ul>
   <li>Responsive Navbar with active link highlight and hamburger menu for mobile</li>
